@@ -1,0 +1,2 @@
+# patternChecker
+ JavaScript test 
